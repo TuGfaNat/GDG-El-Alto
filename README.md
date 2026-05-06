@@ -1,6 +1,7 @@
 # 🚀 GDG El Alto - Organización de Eventos
 
 **Repo Exclusivo para el equipo GDG El Alto en sus distintos eventos**
+En esta ocasion estamos realizando el Build With AI
 
 > Una comunidad dedicada a organizar y ejecutar eventos de tecnología de clase mundial
 
@@ -9,7 +10,7 @@
 ## 📚 Tabla de Contenidos
 
 - [Equipos y Roles](#-equipos-y-roles)
-- [Brand Guide](#brand-guide)
+- [Brand Guide Build With AI](#brand-guide)
 - [Contribuir](#-contribuir)
 - [Contacto](#-contacto)
 
@@ -27,8 +28,6 @@
 - 📄 Diseñar y gestionar cartas de alianza propias
 - 🏷️ Correcta gestión de la solicitud de logos
 
-**Líder del Equipo:** [Nombre]
-
 ---
 
 ### 💻 **EQUIPO TÉCNICO**
@@ -41,7 +40,7 @@
 - 🔊 Sonido en los eventos
 - 📹 Transmisiones en vivo (Lives)
 
-**Líder del Equipo:** [Nombre]
+
 
 ---
 
@@ -55,7 +54,6 @@
 - 📢 Promoción correcta del evento (coordinación con Souvenirs para descuentos)
 - 🎤 Gestionar speakers para eventos previos (coordinación con Alianzas y Sponsors)
 
-**Líder del Equipo:** [Nombre]
 
 ---
 
@@ -70,7 +68,6 @@
 - 🖼️ Crear mockups (coordinación con Souvenirs)
 - 🪪 Diseñar credenciales
 
-**Líder del Equipo:** [Nombre]
 
 ---
 
@@ -84,7 +81,6 @@
 - 🏷️ Correcta gestión de solicitud de logos para artes
 - 📍 Coordinar espacios publicitarios en eventos (coordinación con Logística y Sesiones Previas)
 
-**Líder del Equipo:** [Nombre]
 
 ---
 
@@ -97,7 +93,6 @@
 - 🏷️ Diseño de señaléticas
 - 🎮 Dinámicas y actividades (coordinación con Sesiones Previas y Logística)
 
-**Líder del Equipo:** [Nombre]
 
 ---
 
@@ -111,7 +106,6 @@
 - 👥 **Todos somos logística** (responsabilidad compartida)
 - 🛡️ Team de seguridad
 
-**Líder del Equipo:** [Nombre]
 
 ---
 
@@ -125,7 +119,6 @@
 - 🎁 Entrega de souvenirs
 - 📊 Calcular capacidad del ambiente
 
-**Líder del Equipo:** [Nombre]
 
 ---
 
@@ -141,7 +134,6 @@
 - 📸 Documentación del evento
 - 📁 Organizar material gráfico en carpetas y Google Photos
 
-**Líder del Equipo:** [Nombre]
 
 ---
 
@@ -175,24 +167,12 @@ Usa la sección **Projects** de este repositorio para:
 
 ## 🎨 Brand Guide 2026
 
-**Accede a nuestra guía de marca y estándares visuales:**
+**Accede a nuestra guía de marca y estándares visuales para el Build With AI:**
 👉 [Brand Guide 2026](https://docs.google.com/presentation/d/1gH2ldlijszjKhv-ioO2_7IHxThAaFfc51d90Pqu5pNg/edit?usp=drivesdk)
 
 ---
 
-## ✅ Checklist Pre-Evento
 
-- [ ] Alianzas: Confirmar aliados
-- [ ] Técnico: Probar infraestructura
-- [ ] Sesiones Previas: Confirmar speakers
-- [ ] Diseño: Completar todos los artes
-- [ ] Sponsors: Confirmar patrocinadores
-- [ ] Creative: Comprar materiales
-- [ ] Logística: Confirmar venue y horarios
-- [ ] Acreditación: Listas listas
-- [ ] Marketing: Publicar recordatorios
-
----
 
 ## 🤝 Contribuir
 
@@ -206,7 +186,6 @@ Usa la sección **Projects** de este repositorio para:
 
 ## 📧 Contacto
 
-**Coordinador General:** [Nombre]
 **Email:** [email@gdg-el-alto.com]
 
 ---
